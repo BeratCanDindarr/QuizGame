@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98061f7b66e02dc49aaee5aa5ae39b26, type: 3}
+  m_Name: Level2
+  m_EditorClassIdentifier: 
+  qnA:
+  - audio: {fileID: 8300000, guid: 583d7e83bcc78714a910d83e6d61d594, type: 3}
+    image: {fileID: 21300000, guid: 22e7b8355c6a94b46a2abece2186bd81, type: 3}
+    Question: Which one is the name of this cute animal that feeds on bamboo?
+    Answer:
+    - Panda
+    - Brown Bear
+    - Polar Bear
+    - Parrot
+    CorrectAnswer: 1
+  - audio: {fileID: 8300000, guid: 0f3c3f244f8aede4e864b5ea05c2f9ad, type: 3}
+    image: {fileID: 21300000, guid: 0cd464cc17c169a4481d2f67c5e8739d, type: 3}
+    Question: What is the name of this animal, which is generally known to feed on
+      carrots?
+    Answer:
+    - Fare
+    - Hamster
+    - "Tav\u015Fan"
+    - Sincap
+    CorrectAnswer: 3
+  - audio: {fileID: 8300000, guid: ec2f854d06fafe842827cd67bc45434c, type: 3}
+    image: {fileID: 21300000, guid: 2f6c2e806fd796b43acd39cbcfccc230, type: 3}
+    Question: Please listen the sound and choose your true answer?
+    Answer:
+    - Kumru
+    - "Muhabbet Ku\u015Fu"
+    - Kanarya
+    - "Papa\u011Fan"
+    CorrectAnswer: 1
+  - audio: {fileID: 8300000, guid: 94430f8f7ba5eeb41b6d52ff1375221b, type: 3}
+    image: {fileID: 21300000, guid: dff7a9bb37ca43e449484875cf565608, type: 3}
+    Question: The English name of this animal, which is generally known for its speech,
+      is as you hear, what is its Turkish name?
+    Answer:
+    - "Ser\xE7e"
+    - "Papa\u011Fan"
+    - Kanarya
+    - Saka
+    CorrectAnswer: 2
+  - audio: {fileID: 8300000, guid: 8081f6d8c14016647b6cd5b0efba5599, type: 3}
+    image: {fileID: 21300000, guid: c5d877d2344194d409fb92a8da245a6a, type: 3}
+    Question: Which one is correct Turkish answer?
+    Answer:
+    - "Muhabbet Ku\u015Fu"
+    - Kanarya
+    - Civciv
+    - Hamster
+    CorrectAnswer: 1
